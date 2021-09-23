@@ -1,4 +1,5 @@
 <template>
+  <!-- 可以没有跟标签 -->
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
